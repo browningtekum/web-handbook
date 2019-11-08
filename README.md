@@ -7,17 +7,17 @@ Zuletzt aktualisiert am 29.10.2019.
 Inhalt
 ------------
 
-[1 Grundlagen](../docs/grundlagen.md#1-grundlagen)
-  * [1.1 django CMS Toolbar](../docs/grundlagen.md#1-1-django-cms-toolbar)
-  * [1.2 Medienbibliothek](../docs/grundlagen.md#1-2-medienbibliothek)
-  * [1.3 Focal Point](../docs/grundlagen.md#1-3-focal-point)
-  * [1.4 Assistent](../docs/grundlagen.md#1-4-assistent)
-  * [1.5 Seitenbaum](../docs/grundlagen.md#1-5-seitenbaum)
-  * [1.6 Slug](../docs/grundlagen.md#1-6-slug)
-  * [1.7 Schlagwort](../docs/grundlagen.md#1-7-schlagwort)
-  * [1.8 Meta-Informationen](../docs/grundlagen.md#1-8-meta-informationen)
-  * [1.9 Inhalte](../docs/grundlagen.md#1-9-inhalte)
-  * [1.10 Bildquellen](../docs/grundlagen.md#1-10-bildquellen) 
+[1 Grundlagen](./docs/grundlagen.md#1-grundlagen)
+  * [1.1 django CMS Toolbar](./docs/grundlagen.md#1-1-django-cms-toolbar)
+  * [1.2 Medienbibliothek](./docs/grundlagen.md#1-2-medienbibliothek)
+  * [1.3 Focal Point](./docs/grundlagen.md#1-3-focal-point)
+  * [1.4 Assistent](./docs/grundlagen.md#1-4-assistent)
+  * [1.5 Seitenbaum](./docs/grundlagen.md#1-5-seitenbaum)
+  * [1.6 Slug](./docs/grundlagen.md#1-6-slug)
+  * [1.7 Schlagwort](./docs/grundlagen.md#1-7-schlagwort)
+  * [1.8 Meta-Informationen](./docs/grundlagen.md#1-8-meta-informationen)
+  * [1.9 Inhalte](./docs/grundlagen.md#1-9-inhalte)
+  * [1.10 Bildquellen](./docs/grundlagen.md#1-10-bildquellen) 
 
 [2 Support-Ticket](./docs/support-ticket.md#2-support-ticket) 
 + [2.1 Bildschirmfotos](./docs/support-ticket.md#2-1-bildschirmfotos)  
